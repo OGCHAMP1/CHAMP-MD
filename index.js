@@ -249,7 +249,7 @@ async function startXeonBotInc() {
 ━━━━━━━━━━━━━━━━━━━━━━━
 🔥FOLLOW UNLIMITED-TECH FOR MORE UPDATE👨‍💻: https://whatsapp.com/channel/0029VaN2eQQ59PwNixDnvD16 
 🔥FOLLOW FOR HACK CONTENT👨‍💻: https://whatsapp.com/channel/0029VafEg1mIyPtLXQjAbz3k 
-🔥SUPPORT GROUP👨‍💻: https://chat.whatsapp.com/Fr3q9p7NTou7lCQE7Iri2N?mode=ems_copy_t`,
+🔥SUPPORT GROUP👨‍💻: https://chat.whatsapp.com/Ln6k6loFWSs1vkU1XaQs02?mode=ems_copy_t`,
 
                 contextInfo: {
                     forwardingScore: 1,
