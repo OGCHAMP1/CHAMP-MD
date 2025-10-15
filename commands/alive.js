@@ -1,7 +1,7 @@
 const settings = require("../settings");
 async function aliveCommand(sock, chatId, message) {
     try {
-        const message1 = `*⊰💥𝙲𝙷𝙰𝙼𝙿-𝙼𝙳 IS ACTIVE BY 〔𝗢𝗚 𝗖𝗛𝗔𝗠𝗣〕√⊱!*\n\n` +
+        const message1 = `*💥𝙲𝙷𝙰𝙼𝙿-𝙼𝙳 IS ACTIVE BY 〔𝗢𝗚 𝗖𝗛𝗔𝗠𝗣〕√!*\n\n` +
                        `*Version:* ${settings.version}\n` +
                        `*Status:* Online\n` +
                        `*Mode:* Public\n\n` +
