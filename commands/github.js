@@ -18,7 +18,7 @@ async function githubCommand(sock, chatId, message) {
     txt += `༒  *URL* : ${json.html_url}\n`;
     txt += `༒  *Forks* : ${json.forks_count}\n`;
     txt += `༒  *Stars* : ${json.stargazers_count}\n\n`;
-    txt += `💥*𝙲𝙷𝙰𝙼𝙿-𝙼𝙳*`;
+    txt += `*💥𝙲𝙷𝙰𝙼𝙿-𝙼𝙳*`;
 
     // Use the local asset image
     const imgPath = path.join(__dirname, '../assets/bot_image.jpg');
