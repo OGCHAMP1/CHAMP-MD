@@ -1,0 +1,25 @@
+{
+  "name": "champ",
+ "description": "Bot",
+  "logo": "https://raw.githubusercontent.com/anonphoenix007/storage/main/logo.jpg",
+  "keywords": ["bot"],
+  "success_url": "/",
+    "stack": "container",
+  "env": {
+    "SESSION_ID": {
+      "description": "session ID here.",
+      "required": true,
+      "value": ""
+    },  
+},
+
+     "buildpacks": [
+        {
+            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+        },
+        {
+        	"url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
+        }
+     ],
+  "stack": "heroku-24"
+}

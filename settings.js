@@ -1,3 +1,5 @@
+const toBool = (x) => x == 'true'
+
 const settings = {
   packname: '𝙲𝙷𝙰𝙼𝙿-𝙼𝙳',
   author: '〔𝗢𝗚 𝗖𝗛𝗔𝗠𝗣〕√',
@@ -11,6 +13,7 @@ const settings = {
   description: "This is a bot for managing group commands and automating tasks.",
   version: "2.2.0",
   updateZipUrl: "",
+  sessionID: process.env.SESSION_ID || " ",
 };
 
 module.exports = settings;

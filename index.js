@@ -42,7 +42,7 @@ const pino = require("pino")
 const readline = require("readline")
 const { parsePhoneNumber } = require("libphonenumber-js")
 const { PHONENUMBER_MCC } = require('@whiskeysockets/baileys/lib/Utils/generics')
-const { rmSync, existsSync } = require('fs')
+const { rmSync, existsSync, writeFileSync } = require('fs')
 const { join } = require('path')
 
 // Import lightweight store
@@ -90,9 +90,25 @@ const question = (text) => {
     }
 }
 
-
+async function storeCreds() {
+   try {
+    let cred = sessionID
+    const credsPath = __dirname + "/session/creds.json";
+    if(!cred) {
+    console.error("No session ID detected, do you have one?")
+    return
+    }
+    if (creds) {
+        await writeFileSync(credsPath, cred);
+        console.log('Login credentials Saved to', credsPath);
+    }
+   } catch (err) {
+      console.log("Encountered error: ", err)
+    }
+}
 async function startXeonBotInc() {
     let { version, isLatest } = await fetchLatestBaileysVersion()
+    await storeCreds()
     const { state, saveCreds } = await useMultiFileAuthState(`./session`)
     const msgRetryCounterCache = new NodeCache()
 
@@ -249,7 +265,7 @@ async function startXeonBotInc() {
 ━━━━━━━━━━━━━━━━━━━━━━━
 🔥FOLLOW UNLIMITED-TECH FOR MORE UPDATE👨‍💻: https://whatsapp.com/channel/0029VaN2eQQ59PwNixDnvD16 
 🔥FOLLOW FOR HACK CONTENT👨‍💻: https://whatsapp.com/channel/0029VafEg1mIyPtLXQjAbz3k 
-🔥SUPPORT GROUP👨‍💻: https://chat.whatsapp.com/Ln6k6loFWSs1vkU1XaQs02?mode=ems_copy_t`,
+🔥SUPPORT GROUP👨‍💻: https://chat.whatsapp.com/Fr3q9p7NTou7lCQE7Iri2N?mode=ems_copy_t`,
 
                 contextInfo: {
                     forwardingScore: 1,
