@@ -1,6 +1,4 @@
 ### Champs MD Beta 2.0.0
-https://files.catbox.moe/8ip4o3.jpg
-
 ## Introduction
 
 Welcome to **champs md**, an open-source WhatsApp bot developed by Og champs. This bot leverages the latest **Baileys** library to offer a simple yet powerful interface for automating interactions on WhatsApp. Whether you're looking to automate customer service, send notifications, or simply have some fun, Asta Md is the perfect starting point.
