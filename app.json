@@ -1,25 +1,21 @@
 {
-  "name": "champ",
- "description": "Bot",
-  "logo": "https://raw.githubusercontent.com/anonphoenix007/storage/main/logo.jpg",
-  "keywords": ["bot"],
+  "name": "CHAMPS-MD",
+  "description": "Simple WhatsApp Botto.",
+  "logo": "https://i.imgur.com/JMsAFRD.jpeg",
+  "keywords": "EMP",
   "success_url": "/",
-    "stack": "container",
+  "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "session ID here.",
-      "required": true,
-      "value": ""
-    },  
-},
-
-     "buildpacks": [
-        {
-            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
-        },
-        {
-        	"url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest.git"
-        }
-     ],
-  "stack": "heroku-24"
+      "description": "put your SESSION_ID here. note do not clear anything here",
+      "value": "Astro;;;"
+    },    
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest"
+    },
+    {
+      "url": "https://github.com/carlosdommor/heroku-buildpack-ffmpeg-latest"
+    }
+  ]
 }
