@@ -109,7 +109,7 @@ async function videoCommand(sock, chatId, message) {
             video: { url: videoData.download },
             mimetype: 'video/mp4',
             fileName: `${videoData.title || videoTitle || 'video'}.mp4`,
-            caption: `*${videoData.title || videoTitle || 'Video'}*\n\n> *_Downloaded by OTF MD_*`
+            caption: `*${videoData.title || videoTitle || 'Video'}*\n\n> *_Downloaded by 𝗖𝗛𝗔𝗠𝗣-𝗠𝗗_*`
         }, { quoted: message });
 
 
