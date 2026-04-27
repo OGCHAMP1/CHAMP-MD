@@ -20,6 +20,10 @@ This is Important To Run Your Bot
 
 <a href="https://github.com/OGCHAMP1/CHAMP-MD/fork"><img title="Fork Repo" src="https://img.shields.io/badge/Fork Repo-h?color=brown&style=for-the-badge&logo=stackshare"></a>
 
+## 𝗛𝗢𝗪 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 𝗖𝗛𝗔𝗠𝗣-𝗠𝗗 𝗙𝗢𝗥 𝗙𝗥𝗘𝗘🚀
+
+<a href="https://t.me/weareunlimitedtech/259"><img title="HOW TO DEPLOY FREE" src="https://img.shields.io/badge/DELOPY FREE-h?color=indigo&style=for-the-badge&logo=msi"></a>
+
 
 
 ### Prerequisites
