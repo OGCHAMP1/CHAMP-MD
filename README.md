@@ -22,7 +22,7 @@ This is Important To Run Your Bot
 
 ## 𝗛𝗢𝗪 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 𝗖𝗛𝗔𝗠𝗣-𝗠𝗗 𝗙𝗢𝗥 𝗙𝗥𝗘𝗘🚀
 
-<a href="https://t.me/weareunlimitedtech/259"><img title="HOW TO DEPLOY FREE" src="https://img.shields.io/badge/CLICKTO WATCH ON YOUTUBE-h?color=brown&style=for-the-badge&logo=stackshare"></a>
+<a href="https://t.me/weareunlimitedtech/259"><img title="HOW TO DEPLOY FREE" src="https://img.shields.io/badge/CLICK TO WATCH ON YOUTUBE-h?color=brown&style=for-the-badge&logo=stackshare"></a>
 
 <a href="https://ogchamp-courses.netlify.app/courses?courseId=4937588d-7ce3-44b0-a445-d8261133efcc=xsX-NYNaJtKgaADS"><img title="HOW TO DEPLOY FREE" src="https://img.shields.io/badge/CLICK TO WATCH ON TELEGRAM-h?color=indigo&style=for-the-badge&logo=msi"></a>
 
