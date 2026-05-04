@@ -171,4 +171,10 @@ For any questions or feedback, feel free to contact us via Telegram:
 
 [![EMPEROR](https://img.shields.io/badge/CONTACT-EMPEOR%20ONWHATSAPP-25D366?style=for-the-badge&logo=whatsapp)](http://wa.me/2347041620617)
 [![〔𝗢𝗚 𝗖𝗛𝗔𝗠𝗣〕√](https://img.shields.io/badge/CONTACT-OGCHAMP%20TELEGRAM-25D366?style=for-the-badge&logo=telegram)](https://t.me/OGCHAMP1)
-- [Asta Support](https://t.me/weareunlimitedtech) (Support channel)
+[![SUPPORT CHANNEL](https://img.shields.io/badge/JOIN-TELEGRAM%20GROUP-25D366?style=for-the-badge&logo=telegram)](https://t.me/weareunlimitedtech)
+
+-----
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+------
+
