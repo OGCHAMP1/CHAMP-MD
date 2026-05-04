@@ -18,6 +18,11 @@ This is Important To Run Your Bot
 
 <a href="https://session-fqll.onrender.com"><img title="PAIR NEW CHAMPS SESSION" src="https://img.shields.io/badge/GET SESSION-h?color=indigo&style=for-the-badge&logo=msi"></a>
 
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+------
+
 <a href="https://github.com/OGCHAMP1/CHAMP-MD/fork"><img title="Fork Repo" src="https://img.shields.io/badge/Fork Repo-h?color=brown&style=for-the-badge&logo=stackshare"></a>
 
 
@@ -39,7 +44,16 @@ This is Important To Run Your Bot
 
 <a href="https://t.me/weareunlimitedtech/259"><img title="HOW TO DEPLOY FREE" src="https://img.shields.io/badge/CLICK TO WATCH ON YOUTUBE-h?color=brown&style=for-the-badge&logo=stackshare"></a>
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+------
+
 <a href="https://ogchamp-courses.netlify.app/courses?courseId=4937588d-7ce3-44b0-a445-d8261133efcc=xsX-NYNaJtKgaADS"><img title="HOW TO DEPLOY FREE" src="https://img.shields.io/badge/CLICK TO WATCH ON TELEGRAM-h?color=indigo&style=for-the-badge&logo=msi"></a>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+------
+
 
 
 
