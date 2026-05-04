@@ -53,9 +53,6 @@ This is Important To Run Your Bot
 <a href="https://ogchamp-courses.netlify.app/courses?courseId=4937588d-7ce3-44b0-a445-d8261133efcc=xsX-NYNaJtKgaADS"><img title="HOW TO DEPLOY FREE" src="https://img.shields.io/badge/CLICK TO WATCH ON TELEGRAM-h?color=indigo&style=for-the-badge&logo=msi"></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-
 ### Prerequisites
 
 For Advanced Users, make sure you have the following:
@@ -96,7 +93,6 @@ Once the bot is running, it will automatically connect to WhatsApp and start han
 
 3. Ensure that your new command file is correctly imported and utilized within your main bot setup. **Apply at your own end**
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
 ## Deploy to Node.js Platforms
 
 ### Heroku
@@ -108,9 +104,7 @@ Once the bot is running, it will automatically connect to WhatsApp and start han
 <a href="https://dashboard.heroku.com/new-app?template=https://github.com/OGCHAMP1/CHAMP-MD">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a> 
-
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
 ### VS Code Spaces
 
 <a href="https://github.com/codespaces/new?skip_quickstart=true&machine=standardLinux32gb&repo=763349202&ref=main&geo=UsWest"><img title="Codespaces" src="https://img.shields.io/badge/Delpoy To Codespaces-h?color=black&style=for-the-badge&logo=GitHub"></a>
@@ -121,9 +115,8 @@ Once the bot is running, it will automatically connect to WhatsApp and start han
 4. Start the bot using the terminal in VS Code:
     ```sh
     npm start
-    ```
+        ```
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
 ### Koyeb
 
 1. Sign in to [Koyeb](https://www.koyeb.com/).
@@ -145,7 +138,6 @@ Once the bot is running, it will automatically connect to WhatsApp and start han
    
 3. Configure the environment variables from your github forked repository.
 4. Deploy the project from the Railway dashboard.
-
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
  ### Termux Setup
