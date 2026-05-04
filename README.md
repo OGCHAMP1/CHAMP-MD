@@ -29,7 +29,7 @@ This is Important To Run Your Bot
   
 --- 
 
-<a><img src='https://files.catbox.moe/upmwpw.jpg'/></a>
+<a><img src='https://d.uguu.se/hvxRaTfR.jpg'/></a>
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
