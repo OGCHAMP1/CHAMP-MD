@@ -20,6 +20,21 @@ This is Important To Run Your Bot
 
 <a href="https://github.com/OGCHAMP1/CHAMP-MD/fork"><img title="Fork Repo" src="https://img.shields.io/badge/Fork Repo-h?color=brown&style=for-the-badge&logo=stackshare"></a>
 
+
+---
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=1200&height=100&lines=THANKS%20FOR%20CHOOSING%20CHAMP-MD;MULTI%20DEVICE%20WHATSAPP%20BOT;CREATED%20BY%20OG%20CHAMP" alt="Typing SVG" />
+</a>
+</p>
+  
+--- 
+
+<a><img src='https://files.catbox.moe/upmwpw.jpg'/></a>
+
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
+***
+
 ## 𝗛𝗢𝗪 𝗧𝗢 𝗗𝗘𝗣𝗟𝗢𝗬 𝗖𝗛𝗔𝗠𝗣-𝗠𝗗 𝗙𝗢𝗥 𝗙𝗥𝗘𝗘🚀
 
 <a href="https://t.me/weareunlimitedtech/259"><img title="HOW TO DEPLOY FREE" src="https://img.shields.io/badge/CLICK TO WATCH ON YOUTUBE-h?color=brown&style=for-the-badge&logo=stackshare"></a>
