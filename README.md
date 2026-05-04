@@ -173,13 +173,7 @@ For any questions or feedback, feel free to contact us via Telegram:
 [![〔𝗢𝗚 𝗖𝗛𝗔𝗠𝗣〕√](https://img.shields.io/badge/CONTACT-OGCHAMP%20TELEGRAM-25D366?style=for-the-badge&logo=telegram)](https://t.me/OGCHAMP1)
 [![SUPPORT CHANNEL](https://img.shields.io/badge/JOIN-TELEGRAM%20GROUP-25D366?style=for-the-badge&logo=telegram)](https://t.me/weareunlimitedtech)
 
----
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=1200&height=100&lines=THANKS%20FOR%20CHOOSING%20CHAMP-MD;THANK%20YOU%20FOR%20THE; SUPPORT%20ALWAYS%20OG%20CHAMP" alt="Typing SVG" />
-</a>
-</p>
-  
-------
+
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ------
