@@ -10,6 +10,8 @@ Welcome to **𝗖𝗛𝗔𝗠𝗣-𝗠𝗗**, an open-source WhatsApp bot develo
 - **Extensible**: Easily add new features and commands to suit your needs.
 - **API Integration**: Seamlessly integrate with other APIs to expand functionality.
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 ## Getting Started
 ### Get Your Session(session id fixed😋😋)
 #### Please Star Our Repo For Courage ❤️
@@ -52,9 +54,6 @@ This is Important To Run Your Bot
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
-------
-
-
 
 
 ### Prerequisites
@@ -96,6 +95,7 @@ Once the bot is running, it will automatically connect to WhatsApp and start han
     ```
 
 3. Ensure that your new command file is correctly imported and utilized within your main bot setup. **Apply at your own end**
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## Deploy to Node.js Platforms
 
@@ -109,6 +109,8 @@ Once the bot is running, it will automatically connect to WhatsApp and start han
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a> 
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+
 ### VS Code Spaces
 
 <a href="https://github.com/codespaces/new?skip_quickstart=true&machine=standardLinux32gb&repo=763349202&ref=main&geo=UsWest"><img title="Codespaces" src="https://img.shields.io/badge/Delpoy To Codespaces-h?color=black&style=for-the-badge&logo=GitHub"></a>
@@ -120,6 +122,7 @@ Once the bot is running, it will automatically connect to WhatsApp and start han
     ```sh
     npm start
     ```
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### Koyeb
 
@@ -130,6 +133,7 @@ Once the bot is running, it will automatically connect to WhatsApp and start han
 <a href="https://app.koyeb.com/apps/new/import-project"><img title="Deploy Koyeb" src="https://img.shields.io/badge/DEPLOY KOYEB-h?color=black&style=for-the-badge&logo=koyeb"></a>
 
 4. Deploy your app directly from the Koyeb dashboard.
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ### Railway
 
@@ -142,6 +146,7 @@ Once the bot is running, it will automatically connect to WhatsApp and start han
 3. Configure the environment variables from your github forked repository.
 4. Deploy the project from the Railway dashboard.
 
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
  ### Termux Setup
 
@@ -162,7 +167,7 @@ cd CHAMP-MD
 npm i
 npm start
 ```
-
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 ## 🪀 WHATSAPP CHANNEL 
 STAY CONNECTED WITH THE LATEST UPDATES AND COMMUNITY BY JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER DIRECTLY.
 
