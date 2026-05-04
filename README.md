@@ -149,14 +149,20 @@ npm i
 npm start
 ```
 
-## Contributing
+## 🪀 WHATSAPP CHANNEL 
+STAY CONNECTED WITH THE LATEST UPDATES AND COMMUNITY BY JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER DIRECTLY.
 
-We welcome contributions from the community! To contribute, please follow the guidelines provided [here](https://github.com/Astropeda/Asta-Md/blob/main/CONTRIBUTING.md):
+[![WhatsApp Channel](https://img.shields.io/badge/JOIN-WHATSAAP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VaN2eQQ59PwNixDnvD16)
 
-1. Fork the repository.
-2. Create a new branch with your feature or bugfix.
-3. Make your changes and commit them with clear messages.
-4. Push your branch and open a Pull Request.
+## 🪀 WHATSAPP GROUP
+JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER DIRECTLY.
+
+[![WhatsApp Group](https://img.shields.io/badge/JOIN-WHATSAAP%20GROUP-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VaN2eQQ59PwNixDnvD16)
+
+ 
+
+
+***
 
 
 ## Contact
