@@ -10,7 +10,7 @@ const settings = {
   storeWriteInterval: 10000,
   description: "This is a bot for managing group commands and automating tasks.",
   version: "2.2.0",
-  updateZipUrl: "",
+  updateZipUrl: "https://github.com/OGCHAMP1/CHAMP-MD/archive/refs/heads/main.zip",
 };
 
 module.exports = settings;
